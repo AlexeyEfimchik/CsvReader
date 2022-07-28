@@ -1,0 +1,1 @@
+﻿global using CsvReader.Domain.Common;
